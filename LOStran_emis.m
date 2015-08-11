@@ -1,11 +1,3 @@
-% this is a demo for penalized likelihood PET reconstruction using the
-% standard total variation (TV) regularization and the trust optimization
-% transfer algorithm
-%
-% Guobao Wang @ UC Davis (06-25-2013)
-%
-%clear; clc;
-
 % remember to run "setup.m" to add the path of PLOT. If you have done so,
 % please comment the following two lines.
 % PLOTPATH = '../';   % '../' effective only when you are in the "demo" foler 
